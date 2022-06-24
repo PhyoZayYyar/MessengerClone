@@ -1,0 +1,91 @@
+.mother {
+    margin-left:200px;
+    margin-right:200px;
+}
+
+/* Menu Start */
+.menu {
+    margin-bottom: 30px;
+}
+.logo {
+    width: 3%;
+    margin-right: 400px;
+}
+.listItem {
+    text-decoration: none;
+    color:inherit;
+    margin-left: 20px;
+    font-size: 16px;
+}
+.listItem:hover {
+    /* text-decoration: underline; */
+    border-bottom: 3px rgb(39, 39, 39) solid;
+}
+/* Menu End */
+
+/* Container Start */
+.container {
+    
+}
+.header {
+    margin-bottom: 20px;
+}
+.description {
+    margin-bottom: 20px;
+}
+.left {
+    display: inline-block;
+    width: 40%;
+}
+.inner {
+    width: 50%;
+}
+.right {
+    display: inline-block;
+    width: 40%;
+}
+.appStoreImg {
+    width: 50%;
+}
+.right-img {
+    width: 130%;
+}
+
+.blockElement {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-style : none;
+    background-color: #d3d3d3;
+    border-radius: 7px;
+    height: 40px;
+    width: 300px;
+    outline: none;
+    padding-left: 12px;
+}
+.buttonSignin {
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    padding: 2px 20px 0px;
+    border:1px solid #0084ff;
+    border-radius: 24px;
+    font-size: 19px;
+    height: 40px;
+    width:110px;
+}
+.rememberTick {
+    margin-bottom: 20px;
+}
+.password {
+    margin-bottom:20px;
+}
+/* Container End */
+
+/* Footer Start */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    padding: 20px ;
+}
+/* Footer End */
